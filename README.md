@@ -51,7 +51,7 @@ Sistema simples de vendas e controle para pequenos empreendedores.
 
 - 📧 Email: cs.rib8@gmail.com  
 - 🌐 Portfólio: _[em breve]_  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuperfil) _(envie o link se quiser que eu inclua aqui)_
+- 💼 [LinkedIn](https://www.linkedin.com/in/caiquesr/)
 
 ---
 
