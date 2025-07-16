@@ -51,7 +51,7 @@ Sistema simples de vendas e controle para pequenos empreendedores.
 
 - 📧 Email: cs.rib8@gmail.com  
 - 🌐 [Portfólio](https://osouzacaique.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/caiquesr/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/osouzacaique/)
 
 ---
 
