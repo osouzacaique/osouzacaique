@@ -1,6 +1,6 @@
-### 👋 Olá! Eu sou o Caique Souza
+### 👋 Olá! Eu sou o Caique.
 
-Sou desenvolvedor web com mais de **6 anos de experiência**, apaixonado por tecnologia e soluções que fazem a diferença no dia a dia das pessoas.
+Sou desenvolvedor web com mais de **5 anos de experiência**, apaixonado por tecnologia e soluções que fazem a diferença no dia a dia das pessoas.
 
 Atualmente atuo como **líder da equipe de desenvolvimento** na empresa onde trabalho, mas estou em busca de **novos desafios profissionais**, com foco em produtos de impacto real, ambientes colaborativos e crescimento técnico contínuo.
 
