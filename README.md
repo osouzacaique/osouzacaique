@@ -50,8 +50,8 @@ Sistema simples de vendas e controle para pequenos empreendedores.
 ### 📫 Contato
 
 - 📧 cs.rib8@gmail.com  
-- 🌐 [Portfólio](https://osouzacaique.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/osouzacaique/)
+- 🌐 <a href="https://osouzacaique.github.io/)" target="_blank">Portfólio</a>
+- 💼 <a href="https://www.linkedin.com/in/osouzacaique/" target="_blank">LinkedIn</a>
 
 ---
 
