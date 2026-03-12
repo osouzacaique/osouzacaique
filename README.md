@@ -7,6 +7,10 @@ Atualmente atuo como **líder da equipe de desenvolvimento** na empresa onde tra
 ---
 
 ### 🚀 Tecnologias que utilizo no dia a dia
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,14 +22,12 @@ Atualmente atuo como **líder da equipe de desenvolvimento** na empresa onde tra
 ---
 
 ### 🧩 Outras ferramentas e tecnologias
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
@@ -49,7 +51,7 @@ Sistema simples de vendas e controle para pequenos empreendedores.
 
 ### 📫 Contato
 
-- 📧 cs.rib8@gmail.com  
+- 📧 cs.rib8@gmail.com
 - 🌐 <a href="https://osouzacaique.github.io/" target="_blank">Portfólio</a>
 - 💼 <a href="https://www.linkedin.com/in/osouzacaique/" target="_blank">LinkedIn</a>
 
